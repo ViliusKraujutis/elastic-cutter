@@ -6,4 +6,4 @@
 - ESP32
 
 ## Wiring diagram
-!(Wiring diagram)[https://elfnor.com/images/A4988_circuit.jpg]
+![Wiring diagram](https://elfnor.com/images/A4988_circuit.jpg)
