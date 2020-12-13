@@ -8,7 +8,7 @@
 
 ## Wiring diagram
 ![Wiring diagram](https://elfnor.com/images/A4988_circuit.jpg)
-![Wiring diagram 2](https://lastminuteengineers.com/wp-content/uploads/arduino/Wiring-Nema-17-Stepper-Motor-to-DRV8825-driver-Arduino.png)
+![Wiring diagram 2](https://lastminuteengineers.com/wp-content/uploads/arduino/Wiring-Nema-17-Stepper-Motor-to-A4988-driver-Arduino.png)
 
 
 ## Coding
